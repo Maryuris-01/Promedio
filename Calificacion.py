@@ -18,7 +18,7 @@ print(Promedio)
 if Promedio <= 30:
     print("Su resultado ha sido regular")
 
-elif Promedio >= 40:
+elif Promedio == 40:
     print("su resultado ha sido bueno")
 
 elif Promedio > 80:
